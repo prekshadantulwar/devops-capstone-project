@@ -30,6 +30,7 @@ After sourcing it you prompt should look like this:
 ```bash
 (venv) theia:project$
 ```
+```bash```
 
 ## Useful commands
 
